@@ -6,7 +6,7 @@ LOC = $(shell cat guessinggame.sh | wc -l)
 readme:
 	echo "# The Unix Workbench Assignment" > README.md
 	echo "" >> README.md
-	echo "This repo contains the coding assignment of course The Unix Workbench." >> README.md
+	echo "This repo contains the coding assignment of course [**The Unix Workbench**](https://www.coursera.org/learn/unix)." >> README.md
 	echo "" >> README.md
 	echo "Review criteria:" >> README.md
 	echo "" >> README.md
